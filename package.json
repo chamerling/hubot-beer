@@ -1,0 +1,38 @@
+{
+  "name": "hubot-beer",
+  "version": "0.0.0",
+  "description": "Hubot Beer",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/hubot-beer",
+  "keywords": [
+    "node",
+    "hubot",
+    "beer",
+    "giphy"
+  ],
+  "maintainers": [
+    {
+      "name": "Christophe Hamerling",
+      "email": "christophe.hamerling@gmail.com"
+    }
+  ],
+  "contributors": [],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mths.be/mit"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/chamerling/hubot-beer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/hubot-beer.git"
+  },
+  "engines": {
+    "node": ">0.8.x",
+    "npm": ">1.0.x"
+  },
+  "main": "index.js"
+}
